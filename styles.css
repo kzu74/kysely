@@ -1,0 +1,31 @@
+body {
+  background-color: snow;
+  padding: 1rem;
+  font-size: 1.25rem;
+  font-family: "Palatino Linotype";
+}
+#kysymys {
+  background-color: lightgreen;
+  border-radius: 15px;
+  text-align: center;
+  padding: 1rem;
+}
+
+.vaihtoehto {
+  background-color: lightblue;
+  border-radius: 15px;
+  text-align: center;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+#seuraava {
+  padding: 1rem;
+  margin: 1rem;
+  font-size: 1.4rem;
+}
+
+#nappi {
+  text-align: center;
+
+}
