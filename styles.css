@@ -1,31 +1,33 @@
 body {
-  background-color: snow;
-  padding: 1rem;
-  font-size: 1.25rem;
-  font-family: "Palatino Linotype";
+    background-color: snow;
+    padding: 1rem;
 }
+
 #kysymys {
-  background-color: lightgreen;
-  border-radius: 15px;
-  text-align: center;
-  padding: 1rem;
+    background-color: lightgreen;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
 }
 
 .vaihtoehto {
-  background-color: lightblue;
-  border-radius: 15px;
-  text-align: center;
-  padding: 1rem;
-  margin: 1rem;
+    background-color: lightblue;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.vaihtoehto:hover {
+    background-color: lightskyblue;
 }
 
 #seuraava {
-  padding: 1rem;
-  margin: 1rem;
-  font-size: 1.4rem;
+    padding: 1rem;
+    margin: 1rem;
 }
 
 #nappi {
-  text-align: center;
-
+    text-align: center;
 }
